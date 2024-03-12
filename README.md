@@ -3,7 +3,7 @@ Dymion here - Trusted POS Validator. Provide Tendermint chain services & profess
 
 Support the growth of Web3 and the Proof-of-Stake ecosystem with our non-custodial staking services.
 
-## My services: 
+## Chain services: 
 
         IBC Relayer, installation guide, API, RPC, gRPC, 
         Seeds & peers, state-sync, snapshot , genesis & addrbook.
