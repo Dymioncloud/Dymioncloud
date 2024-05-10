@@ -7,17 +7,6 @@ Support the growth of Web3 and the Proof-of-Stake ecosystem with our non-custodi
 
         IBC Relayer, installation guide, API, RPC, gRPC, 
         Seeds & peers, state-sync, snapshot , genesis & addrbook.
-    
-## Dedicated Server: 
-
-        Chip: Ryzen 9 5950x (AM4)
-        Mainboard: Asus Pro WS X570-ACE
-        Ram: 128GB DDR4 ECC
-        VGA: No
-        NVMe: 5TB
-        PCie: Hyper M2 x16 Gen 4 Card x2
-        PSU: 500W 80Gold
-        Lan: 1Gbps
 
 ## Featured chains
 
@@ -26,7 +15,7 @@ Support the growth of Web3 and the Proof-of-Stake ecosystem with our non-custodi
 | Hedgeblock | Arkeo | Bool Network | Side Protocol | Selfchain |
 | :--------: | :--------: | :--------: | :--------: | :--------: |
 | **Entangle**  | **Tangle**  | **Cardchain**  | **Lava Network**  | **Dymension**  |
-
+| **Zero Gravity**  | **Airchains**  |
 
 </div>
 
